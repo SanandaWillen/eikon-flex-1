@@ -22,7 +22,11 @@
   flex-direction: row-reverse;
 }
 /* 5. exercice-wrap-1 */
-
+.exercice-wrap-1 .container {
+  background-color: pink;
+  display: flex;
+  flex-wrap: nowrap;
+}
 /* 6. exercice-wrap-2 */
 
 /* 7. exercice-wrap-3 */
