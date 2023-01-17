@@ -40,4 +40,9 @@
   flex-wrap: wrap-reverse;
 }
 /* 8. all-in */
-
+.exercice-all-in .container {
+  background-color: pink;
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap-reverse;
+}
