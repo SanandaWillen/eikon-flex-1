@@ -16,7 +16,11 @@
   flex-direction: column-reverse;
 }
 /* 4. exercice-direction-2 */
-
+.exercice-direction-3 .container {
+  background-color: pink;
+  display: flex;
+  flex-direction: row-reverse;
+}
 /* 5. exercice-wrap-1 */
 
 /* 6. exercice-wrap-2 */
