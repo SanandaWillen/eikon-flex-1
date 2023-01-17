@@ -34,6 +34,10 @@
   flex-wrap: wrap;
 }
 /* 7. exercice-wrap-3 */
-
+.exercice-wrap-3 .container {
+  background-color: pink;
+  display: flex;
+  flex-wrap: wrap-reverse;
+}
 /* 8. all-in */
 
