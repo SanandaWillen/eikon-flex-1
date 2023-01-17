@@ -4,7 +4,11 @@
 }
 
 /* 2. exercice-direction-1 */
-
+.exercice-direction-1 .container {
+  background-color: pink;
+  display: flex;
+  flex-direction: column;
+}
 /* 3. exercice-direction-2 */
 
 /* 4. exercice-direction-2 */
